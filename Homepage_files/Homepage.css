@@ -1,5 +1,7 @@
 
-
+:root {
+  --footer_width: 960px;
+}
 
 :root {
     --brand_primary: #2b3636;
@@ -58,14 +60,6 @@
     src: url("//assets.teachablecdn.com/fonts/metropolis/Metropolis-BoldItalic.woff2?v=1") format("woff2"), url("//assets.teachablecdn.com/fonts/metropolis/Metropolis-BoldItalic.woff?v=1") format("woff"), url("//assets.teachablecdn.com/fonts/metropolis/Metropolis-BoldItalic.ttf?v=1") format("ttf"), url("//assets.teachablecdn.com/fonts/metropolis/Metropolis-BoldItalic.otf?v=1") format("otf");
     font-display: swap;
   }
-</style>
-<link rel="stylesheet" media="screen"
-  href="./Homepage_files/pages-07d1f1c913aa717caba0acc1e50181f2f09a0df3a6c208d33e69b3205dfffeaa.css">
-<title>Homepage | CHROMA TECH ACADEMY</title>
-<!-- <link rel="canonical" href="https://chromatechacademy.teachable.com/p/home"> -->
-
-
-<style id="wistia_22_style" type="text/css" class="wistia_injected_style">
   @font-face {
     font-family: 'WistiaPlayerInterNumbersSemiBold';
     font-feature-settings: 'tnum'1;
@@ -21744,54 +21738,10 @@ appearance: textfield;
       padding: 0 8px;
     }
 
-    /*# sourceURL=ace/css/ace_searchbox */
-  </style>
-</head>
-
-<body class="revamped_lecture_player">
-
-<div class="root" onclick="offMenu(event)">
-
-
-  <a id="top"></a>
-  <style id="ncs">
     :root {
 
       --header_width: 960px;
     }
-  </style>
-  <header id="header" class="header header-sticky">
-
-    <nav class="navbar is-not-signed-in is-homepage at-top" id="navbar" role="navigation">
-      <div class="navbar__header">
-
-        <a class="navbar__header__logolink" href="https://chromatechacademy.teachable.com/">
-          <img src="./Homepage_files/convert.jpg" alt="CHROMA TECH ACADEMY"
-            srcset="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:120/https://file-uploads.teachablecdn.com/20c80a93c883406aa55c52f512b098f1/bd405ea826814df8b698ecb34115c2cb 2x">
-        </a>
-
-        <div class="navbar__menu">
-          <button for="f-toggle" tabindex="0" role="button" id="hamburger" class="hamburger"
-            aria-label="Toggle navigation" onclick="toggleMenu('hamburger-menu')">
-            <span></span>
-          </button>
-          <ul class="navbar__menu__list menu hidden" id="hamburger-menu" role="menu" aria-describedby="hamburger"
-            tabindex="0">
-
-            <li>
-              <a href="https://chromatechacademy.teachable.com/sign_in">
-                Login
-              </a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-  </header>
-  <main class="view-school page-layout-v2 main">
-    <div id="blocks" data-ss-school-id="1368024" class="blocks-page blocks-page-homepage_v2 ">
-
-      <style type="text/css">
         .b-107979668-top {
           padding-top: 84.00000000000001px;
         }
@@ -21827,9 +21777,6 @@ appearance: textfield;
         .b-107979668-subheading_text_color {
           color: #FFFFFF;
         }
-      </style>
-      <div class="course-block block banner  " id="block-107979668">
-        <style>
           .banner .b-107979668-heading_text_color {
             color: #FFFFFF
           }
@@ -21858,38 +21805,6 @@ appearance: textfield;
           .bl {
             width: 100%;
           }
-        </style>
-        <section class="banner b-107979668-background_color">
-          <img src="./Homepage_files/JPG-05.jpg" alt="" data-target="block.data.image_url "
-            class="b-107979668-image_overlay">
-          <div class="bl">
-            <div
-              class="banner__inner b-107979668-alignment b-107979668-bottom b-107979668-top b-107979668-content_width">
-              <div class="banner__heading-group heading-type-h1">
-                <div data-target="block.data.heading_text" class="header b-107979668-heading_text_color rich-text">
-                  <h1><br></h1>
-                  <p><br class="softbreak"></p>
-                </div>
-                <div data-target="block.data.subheading_text"
-                  class="subheader b-107979668-subheading_text_color rich-text">
-                  <h4><br class="softbreak"></h4>
-                  <p><br class="softbreak"><br class="softbreak"></p>
-                </div>
-              </div>
-              <div class="banner__button-wrapper">
-                <a href="https://www.chromatechacademy.net/enroll-now" target="_blank" rel="noopener">
-                  <button class="banner__button b-107979668-button_border_radius base-button"
-                    data-target="block.data.button_text">
-                    Enroll Now
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-        </section>
-      </div>
-
-      <style type="text/css">
         .b-107979680-top {
           padding-top: 33.6px;
         }
@@ -21913,9 +21828,7 @@ appearance: textfield;
         .b-107979680-heading_text_color {
           color: #36414D;
         }
-      </style>
-      <div class="course-block block text  " id="block-107979680">
-        <style>
+
           .block__text .b-107979680-text_color {
             color: #36414D
           }
@@ -21967,25 +21880,7 @@ appearance: textfield;
               padding-bottom: 60px;
             }
           }
-        </style>
-        <section
-          class="container bl block__text rich-text b-107979680-top b-107979680-bottom b-107979680-background_color">
-          <div
-            class="block__text-wrapper b-107979680-content_width b-107979680-heading_text_color b-107979680-text_color"
-            data-target="block.data.body">
-            <h1 class="ql-align-center"><span style="background-color:transparent;color:rgb(33, 35, 56);">WORK WITH
-                THE LATEST TEST AUTOMATION TECHNOLOGIES</span></h1>
-            <p class="ql-align-center"><br></p>
-            <h3 class="ql-align-center"><span style="background-color:transparent;color:rgb(33, 35, 56);">LEARN TO
-                ENGINEER AND ARCHITECTURALLY DEVELOP ROBUST AND DYNAMIC TEST AUTOMATION FRAMEWORKS USING THE MOST IN
-                DEMAND TOOLS.</span></h3>
-            <h3><br></h3>
-            <p><span style="color:rgb(33, 35, 56);"><br class="softbreak"></span><br class="softbreak"></p>
-          </div>
-        </section>
-      </div>
 
-      <style type="text/css">
         .b-107979682-top {
           padding-top: 22.400000000000002px;
         }
@@ -22021,9 +21916,6 @@ appearance: textfield;
         .b-107979682-image_border_radius {
           border-radius: 0px;
         }
-      </style>
-      <div class="course-block block image_with_text  " id="block-107979682">
-        <style>
           .block__image-with-text .b-107979682-text_color {
             color: #36414D;
           }
@@ -22095,31 +21987,6 @@ appearance: textfield;
             }
 
           }
-        </style>
-        <section
-          class="bl container block__image-with-text b-107979682-background_color b-107979682-top b-107979682-bottom b-107979682-gutter_width image-with-text-layout-left">
-          <div
-            class="b-107979682-content_width block__image-with-text__wrapper b-107979682-heading_color b-107979682-text_color b-107979682-text_alignment">
-            <div class="block__image-with-text__inner block__image-with-text__image">
-              <img src="./Homepage_files/Chroma course.webp" alt=""
-                data-target="block.data.image_url block.data.alt_text"
-                class="block__image-with-text__image b-107979682-image_border_radius image">
-            </div>
-            <div class="block__image-with-text__inner block__image-with-text__text-wrapper rich-text">
-              <div class="block__image-with-text__inner__heading">
-                <h2><span style="color:rgb(33, 34, 54);"><br class="softbreak">WHY CHROMA TECH?</span></h2>
-                <p><br class="softbreak"></p>
-              </div>
-              <p><br class="softbreak"></p>
-              <p><span style="color:rgb(15, 15, 15);">OUR APPROACH IS DIFFERENT, BUT SIMPLE. BY HOSTING SMALLER
-                  CLASSES TO ENSURE EACH AND EVERY STUDENT RECEIVES EXCEPTIONAL SUPPORT THROUGHOUT THE COURSE AND POST
-                  GRADUATION.</span><br class="softbreak"></p>
-            </div>
-          </div>
-        </section>
-      </div>
-
-      <style type="text/css">
         .b-107979683-top {
           padding-top: 22.400000000000002px;
         }
@@ -22155,9 +22022,6 @@ appearance: textfield;
         .b-107979683-description_text_color {
           color: #36414D;
         }
-      </style>
-      <div class="course-block block text_with_image_grid  " id="block-107979683">
-        <style>
           .block__text-with-image-grid.b-107979683-background_color {
             background-color: #FFFFFF
           }
@@ -22199,3 +22063,67 @@ appearance: textfield;
             }
 
           }
+
+          .b-107979668-top {
+            padding-top: 84.00000000000001px;
+          }
+
+          .b-107979668-bottom {
+            padding-bottom: 1.12px;
+          }
+
+          .b-107979668-alignment {
+            text-align: center;
+          }
+
+          .b-107979668-content_width {
+            max-width: 668px;
+          }
+
+          .b-107979668-image_overlay {
+            opacity: 0.9;
+          }
+
+          .b-107979668-background_color {
+            background-color: #EFEFF5;
+          }
+
+          .b-107979668-heading_text_color {
+            color: #FFFFFF;
+          }
+
+          .b-107979668-button_border_radius {
+            border-radius: 30px;
+          }
+
+          .b-107979668-subheading_text_color {
+            color: #FFFFFF;
+          }
+                  .banner .b-107979668-heading_text_color {
+                    color: #FFFFFF
+                  }
+      
+      
+      
+                  .banner .b-107979668-subheading_text_color {
+                    color: #FFFFFF
+                  }
+      
+      
+                  .banner__button.b-107979668-button_border_radius {
+                    border-radius: 30;
+                  }
+      
+                  @media screen and (min-width: 768px) {
+                    .b-107979668-top {
+                      padding-top: 150px;
+                    }
+      
+                    .b-107979668-bottom {
+                      padding-bottom: 2px;
+                    }
+                  }
+      
+                  .bl {
+                    width: 100%;
+                  }
